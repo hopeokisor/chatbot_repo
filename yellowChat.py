@@ -155,7 +155,7 @@ random_greetings = random.choice(greetings) # -------- Randomly select greeting 
 # -------------------------- STREAMLIT IMPLEMENTATION ---------------------- 
 # import streamlit as st
 st.markdown("<h1 style = 'text-align: center; color: #176B87'>MENTAL HEALTH CHATBOT</h1>", unsafe_allow_html = True)
-st.markdown("<h6 style = 'text-align: center; top-margin: 0rem; color: #64CCC5'>BUILT BY Gomycode Yellow Orange Beast</h1>", unsafe_allow_html = True)
+st.markdown("<h6 style = 'text-align: center; top-margin: 0rem; color: #64CCC5'>BUILT BY Hope In GoMyCode</h1>", unsafe_allow_html = True)
 
 st.markdown("<br> <br>", unsafe_allow_html= True)
 col1, col2 = st.columns(2)
